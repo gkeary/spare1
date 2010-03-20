@@ -1,0 +1,10 @@
+
+[Server]
+  key=DISPATCHSPARE1\sX
+[Environment] 
+  env  = production
+[User]
+    usr=ctuser
+    pw = 123ross321
+[DbName]
+  production  = dispatch_ct
